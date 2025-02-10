@@ -1,1 +1,1 @@
-import{a}from"https://cora-e.github.io/blog//build/_shared/chunk-RBYSU7BP.js";import"https://cora-e.github.io/blog//build/_shared/chunk-WBLN4ZDU.js";import"https://cora-e.github.io/blog//build/_shared/chunk-QXPMMO3F.js";import"https://cora-e.github.io/blog//build/_shared/chunk-2NH4LW52.js";export default a();
+import{a}from"https://cora-e.com/build/_shared/chunk-RBYSU7BP.js";import"https://cora-e.com/build/_shared/chunk-WBLN4ZDU.js";import"https://cora-e.com/build/_shared/chunk-QXPMMO3F.js";import"https://cora-e.com/build/_shared/chunk-2NH4LW52.js";export default a();

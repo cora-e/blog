@@ -1,1 +1,1 @@
-import{b as a}from"https://cora-e.github.io/blog//build/_shared/chunk-KXDZNNUH.js";import"https://cora-e.github.io/blog//build/_shared/chunk-J6FHCSRC.js";import"https://cora-e.github.io/blog//build/_shared/chunk-2NH4LW52.js";export{a as unified};
+import{b as a}from"https://cora-e.com/build/_shared/chunk-KXDZNNUH.js";import"https://cora-e.com/build/_shared/chunk-J6FHCSRC.js";import"https://cora-e.com/build/_shared/chunk-2NH4LW52.js";export{a as unified};

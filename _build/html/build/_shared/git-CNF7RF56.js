@@ -1,1 +1,1 @@
-import{a}from"https://cora-e.github.io/blog//build/_shared/chunk-FX4GW6JW.js";import"https://cora-e.github.io/blog//build/_shared/chunk-2NH4LW52.js";export default a();
+import{a}from"https://cora-e.com/build/_shared/chunk-FX4GW6JW.js";import"https://cora-e.com/build/_shared/chunk-2NH4LW52.js";export default a();
