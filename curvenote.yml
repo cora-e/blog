@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: Corallary
+  id: 9ad822d2-d999-4820-8305-617dd9d57e2c
+site:
+  title: pages
+  options:
+    logo_text: pages
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains: []
+  template: https://api.myst.tools/templates/site/myst/book-theme
